@@ -1,0 +1,29 @@
+commit 706473b929a072def42c682e0fafa5407be2b4f8
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Thu Dec 7 18:30:59 2017 -0500
+
+    Final version of all files for submission
+
+commit 6133019ef8df864a95d310ed2ae3fcdc83f18f0a
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Thu Dec 7 18:25:54 2017 -0500
+
+    Added partner's updates to check for error on fopen
+
+commit f70e0e8ef1df8a29c86374d087236ce74c9e3f59
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Mon Dec 4 00:45:42 2017 -0500
+
+    Updated Consumer.c to read from DATA.txt and print to stdout
+
+commit 19a0fc43354b1fbb67b47e2b5cbd94f2a157e0d8
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Mon Dec 4 00:11:56 2017 -0500
+
+    Updated Producer.c to read data.txt and write to DATA.txt
+
+commit e8e16b921b245fb87bbc92e98a2300259185d2d8
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Sun Dec 3 23:50:18 2017 -0500
+
+    Importing files from partner

@@ -1,0 +1,35 @@
+commit 2e057845ff4279fdaad1f5a88ba91f90a5a491b8
+Author: Maria ANGELOPOULOU <manghe3@ds2.CS.McGill.CA>
+Date:   Sun Nov 26 21:23:02 2017 -0500
+
+    Final version of assignment to submit
+
+commit 42b3ae48f612b2c948ccb605ff95338c6012e88b
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Sat Nov 25 11:40:16 2017 -0500
+
+    Works perfectly without warnings.
+
+commit 61a6475ff5a591a5b7f40eafdd96e41a7d610fbe
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Sat Nov 25 11:28:22 2017 -0500
+
+    Completed funtionality. Bug with implicit declaration of funcs.
+
+commit 4f1bb632545772ad7803d53a43dfbab2e076bde8
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Fri Nov 24 22:48:41 2017 -0500
+
+    created list.c & defined addNode,prettyPrint & newList.
+
+commit 02281c600728e9f4a1a79e459dcdec3941ed307c
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Fri Nov 24 21:35:23 2017 -0500
+
+    Added node definition in list.h
+
+commit a6e2effe321f97a04f7a124c504e484c28aabb96
+Author: Maria ANGELOPOULOU <manghe3@linux.CS.McGill.CA>
+Date:   Fri Nov 24 21:29:26 2017 -0500
+
+    1) Setting up reading number inputs. 2) Breaking while loop when negative.
