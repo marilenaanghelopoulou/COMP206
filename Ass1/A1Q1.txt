@@ -1,0 +1,8 @@
+COMP 206 Assignment 1
+
+Maria Anghelopoulou (ID: 260530237)
+
+Q1)
+The objective of the Linux Documentation Project is to create and share a collection of GNU/Linux documentation that is easy to use and search. 
+This documentation is available for free to the public and can be found online. 
+The LDP is run by volunteers with minimal central organisation and anyone is welcome to help with the project.
